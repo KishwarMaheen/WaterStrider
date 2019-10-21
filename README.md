@@ -7,7 +7,9 @@ which enables mobility of its motors and uses sensors to send information back t
 implement the control system that enables the mobility of the Water Strider. However, the feedback system is something that we have not
 successfully implemented as of yet and is something that needs to be worked on.
 
-The pictures of the hardware setup during testing as well as during BRAC University's hardware showcasing are given below. The name of our group was CSE360_Poseidon.
+The pictures of the hardware setup during testing as well as during BRAC University's hardware showcasing are given below. The name of our group was CSE360_Poseidon. It is not possible to show a live demo of the project at this time as we did not record it at the time of
+building this robot and making the control system. As of now, my other group mate, who was instrumental in building this robot, is not
+within the country.
 
 ![](HardwarePhotos/72572767_463071884305958_5112302188063883264_n.jpg)
 
