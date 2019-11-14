@@ -4,8 +4,8 @@ This is a project done by me and Manan Moin Shuddho as a part of the course titl
 basically a hardware project where we tried to model a water-body monitoring robot, which we call the Water Strider. The Water Strider is 
 controlled by an Android application and the commands sent by the application are received by a Raspberry PI attached within the robot, 
 which enables mobility of its motors and uses sensors to send information back to the Android application. We successfully managed to
-implement the control system that enables the mobility of the Water Strider. However, the feedback system is something that we have not
-successfully implemented as of yet and is something that needs to be worked on.
+implement the control system that enables the mobility of the Water Strider. However, the feedback system is something that we could not
+successfully implement before the project deadline.
 
 The pictures of the hardware setup during testing as well as during BRAC University's hardware showcasing are given below. The name of our group was CSE360_Poseidon. It is not possible to show a live demo of the project at this time as we did not record it at the time of
 building this robot and making the control system. As of now, my other group mate, who was instrumental in building this robot, is not
